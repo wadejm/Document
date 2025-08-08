@@ -35,3 +35,8 @@ Output:
   Max(s1, s2): World
 
 2.类模板
+template <class type> class class-name {
+.
+.
+.
+}
